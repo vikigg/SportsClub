@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SportsClub</name>
+    </assembly>
+    <members>
+        <member name="M:SportsClub.Business.PlayerBusiness.GetAll">
+            <summary>
+            Method "GetAll" returns a list of all players and the information about them
+            </summary>
+        </member>
+        <member name="M:SportsClub.Business.PlayerBusiness.Get(System.Nullable{System.Int32})">
+            <summary>
+            Method "Get" returns the player to which the given id matches 
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:SportsClub.Business.PlayerBusiness.Add(SportsClub.Data.Models.Player)">
+            <summary>
+            Method "Add" adds a new player to the database
+            </summary>
+            <param name="player"></param>
+        </member>
+        <member name="M:SportsClub.Business.PlayerBusiness.Update(SportsClub.Data.Models.Player)">
+            <summary>
+            Method "Update" finds an existing player and changes the information about him
+            </summary>
+            <param name="player"></param>
+        </member>
+        <member name="M:SportsClub.Business.PlayerBusiness.Delete(System.Int32)">
+            <summary>
+            Method "Delete" finds an existing player to which the given id matches and deletes him
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:SportsClub.Business.PlayerBusiness.CheckIfTeamExists(System.Nullable{System.Int32})">
+            <summary>
+            Method "CheckIfTeamExists" checks if the given id matches any of the existing teams
+            </summary>
+            <param name="teamId"></param>
+        </member>
+        <member name="M:SportsClub.Business.PlayerBusiness.CheckIfPlayerNameIsCorrect(SportsClub.Data.Models.Player)">
+            <summary>
+            Method "CheckIfPlayerNameIsCorrect" checks if the given player name is not "" or null
+            </summary>
+            <param name="player"></param>
+        </member>
+        <member name="M:SportsClub.Business.SportBusiness.GetAll">
+            <summary>
+            Method "GetAll" returns a list of all sports and the information about them
+            </summary>
+        </member>
+        <member name="M:SportsClub.Business.SportBusiness.Get(System.Nullable{System.Int32})">
+            <summary>
+            Method "Get" returns the sport to which the given id matches 
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:SportsClub.Business.SportBusiness.Add(SportsClub.Data.Models.Sport)">
+            <summary>
+            Method "Add" adds a new sport to the database
+            </summary>
+            <param name="sport"></param>
+        </member>
+        <member name="M:SportsClub.Business.SportBusiness.Update(SportsClub.Data.Models.Sport)">
+            <summary>
+            Method "Update" finds an existing sport and changes the information about it
+            </summary>
+            <param name="sport"></param>
+        </member>
+        <member name="M:SportsClub.Business.SportBusiness.Delete(System.Int32)">
+            <summary>
+            Method "Delete" finds an existing sport to which the given id matches and deletes it
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:SportsClub.Business.SportBusiness.CheckIfSportExists(SportsClub.Data.Models.Sport)">
+            <summary>
+            Method "CheckIfSportExists" checks if the given name matches any of the existing sports
+            </summary>
+            <param name="sport"></param>
+        </member>
+        <member name="M:SportsClub.Business.SportBusiness.CheckIfSportNameIsCorrect(SportsClub.Data.Models.Sport)">
+            <summary>
+            Method "CheckIfSportNameIsCorrect" checks if the given sport name is not "" or null
+            </summary>
+            <param name="sport"></param>
+        </member>
+        <member name="M:SportsClub.Business.TeamBusiness.GetAll">
+            <summary>
+            Method "GetAll" returns a list of all teams and the information about them
+            </summary>
+        </member>
+        <member name="M:SportsClub.Business.TeamBusiness.Get(System.Nullable{System.Int32})">
+            <summary>
+            Method "Get" returns the team to which the given id matches 
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:SportsClub.Business.TeamBusiness.Add(SportsClub.Data.Models.Team)">
+            <summary>
+            Method "Add" adds a new team to the database
+            </summary>
+            <param name="team"></param>
+        </member>
+        <member name="M:SportsClub.Business.TeamBusiness.Update(SportsClub.Data.Models.Team)">
+            <summary>
+            Method "Update" finds an existing team and changes the information about it
+            </summary>
+            <param name="team"></param>
+        </member>
+        <member name="M:SportsClub.Business.TeamBusiness.Delete(System.Int32)">
+            <summary>
+            Method "Delete" finds an existing team to which the given id matches and deletes it
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:SportsClub.Business.TeamBusiness.CheckIfTeamExists(SportsClub.Data.Models.Team)">
+            <summary>
+            Method "CheckIfTeamExists" checks if the given team matches any of the existing teams
+            </summary>
+            <param name="team"></param>
+        </member>
+        <member name="M:SportsClub.Business.TeamBusiness.CheckIfSportExists(System.Nullable{System.Int32})">
+            <summary>
+            Method "CheckIfSportExists" checks if the given id matches any of the existing sports
+            </summary>
+            <param name="sportId"></param>
+        </member>
+        <member name="M:SportsClub.Business.TeamBusiness.CheckIfTrainerExists(System.Nullable{System.Int32})">
+            <summary>
+            Method "CheckIfTrainerExists" checks if the given id matches any of the existing trainers
+            </summary>
+            <param name="trainerId"></param>
+        </member>
+        <member name="M:SportsClub.Business.TeamBusiness.CheckIfTeamNameIsCorrect(SportsClub.Data.Models.Team)">
+            <summary>
+            Method "CheckIfTeamNameIsCorrect" checks if the given team name is not "" or null
+            </summary>
+            <param name="team"></param>
+        </member>
+        <member name="M:SportsClub.Business.TrainerBusiness.GetAll">
+            <summary>
+            Method "GetAll" returns a list of all trainers and the information about them
+            </summary>
+        </member>
+        <member name="M:SportsClub.Business.TrainerBusiness.Get(System.Nullable{System.Int32})">
+            <summary>
+            Method "Get" returns the trainer to which the given id matches 
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SportsClub.Business.TrainerBusiness.Add(SportsClub.Data.Models.Trainer)">
+            <summary>
+            Method "Add" adds a new trainer to the database
+            </summary>
+            <param name="trainer"></param>
+        </member>
+        <member name="M:SportsClub.Business.TrainerBusiness.Update(SportsClub.Data.Models.Trainer)">
+            <summary>
+            Method "Update" finds an existing trainer and changes the information about him
+            </summary>
+            <param name="trainer"></param>
+        </member>
+        <member name="M:SportsClub.Business.TrainerBusiness.Delete(System.Int32)">
+            <summary>
+            Method "Delete" finds an existing trainer to which the given id matches and deletes him
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:SportsClub.Business.TrainerBusiness.CheckIfTrainerNameIsCorrect(SportsClub.Data.Models.Trainer)">
+            <summary>
+            Method "CheckIfTrainerNameIsCorrect" checks if the given trainer name is not "" or null
+            </summary>
+            <param name="trainer"></param>
+        </member>
+        <member name="T:SportsClub.Data.Models.Player">
+            <summary>
+            In class "Player" are implemented the properties of the player
+            </summary>
+        </member>
+        <member name="T:SportsClub.Data.Models.Sport">
+            <summary>
+            In class "Sport" are implemented the properties and consctructor of the sport
+            </summary>
+        </member>
+        <member name="M:SportsClub.Data.Models.Team.#ctor">
+            <summary>
+            In class "Team" are implemented the properties and the constructor of the team
+            </summary>
+        </member>
+        <member name="T:SportsClub.Data.Models.Trainer">
+            <summary>
+            In class "Trainer" are implemented the properties and the constructor of the trainer
+            </summary>
+        </member>
+        <member name="M:SportsClub.Presentation.PlayerDisplay.ListAll">
+            <summary>
+            Method "ListAll" shows a list of all players and the information about them
+            </summary>
+        </member>
+        <member name="M:SportsClub.Presentation.PlayerDisplay.Add">
+            <summary>
+            Method "Add" adds a new player to the database
+            </summary>
+        </member>
+        <member name="M:SportsClub.Presentation.PlayerDisplay.Update">
+            <summary>
+            Method "Update" finds an existing player and changes the information about him
+            </summary>
+        </member>
+        <member name="M:SportsClub.Presentation.PlayerDisplay.Fetch">
+            <summary>
+            Method "Fetch" finds an existing player and shows the information about him
+            </summary>
+        </member>
+        <member name="M:SportsClub.Presentation.PlayerDisplay.Delete">
+            <summary>
+            Method "Delete" finds an existing player and deletes him
+            </summary>
+        </member>
+        <member name="M:SportsClub.Presentation.SportDisplay.ListAll">
+            <summary>
+            Method "ListAll" shows a list of all sports and the information about them
+            </summary>
+        </member>
+        <member name="M:SportsClub.Presentation.SportDisplay.Add">
+            <summary>
+            Method "Add" adds a new sport to the database
+            </summary>
+        </member>
+        <member name="M:SportsClub.Presentation.SportDisplay.Update">
+            <summary>
+            Method "Update" finds an existing sport and changes the information about it
+            </summary>
+        </member>
+        <member name="M:SportsClub.Presentation.SportDisplay.Fetch">
+            <summary>
+            Method "Fetch" finds an existing sport and shows the information about it
+            </summary>
+        </member>
+        <member name="M:SportsClub.Presentation.SportDisplay.Delete">
+            <summary>
+            Method "Delete" finds an existing sport and deletes it
+            </summary>
+        </member>
+        <member name="M:SportsClub.Presentation.TeamDisplay.ListAll">
+            <summary>
+            Method "ListAll" shows a list of all teams and the information about them
+            </summary>
+        </member>
+        <member name="M:SportsClub.Presentation.TeamDisplay.Add">
+            <summary>
+            Method "Add" adds a new team to the database
+            </summary>
+        </member>
+        <member name="M:SportsClub.Presentation.TeamDisplay.Update">
+            <summary>
+            Method "Update" finds an existing team and changes the information about it
+            </summary>
+        </member>
+        <member name="M:SportsClub.Presentation.TeamDisplay.Fetch">
+            <summary>
+            Method "Fetch" finds an existing team and shows the information about it
+            </summary>
+        </member>
+        <member name="M:SportsClub.Presentation.TeamDisplay.Delete">
+            <summary>
+            Method "Delete" finds an existing team and deletes it
+            </summary>
+        </member>
+        <member name="M:SportsClub.Presentation.TrainerDisplay.ListAll">
+            <summary>
+            Method "ListAll" shows a list of all trainers and the information about them
+            </summary>
+        </member>
+        <member name="M:SportsClub.Presentation.TrainerDisplay.Add">
+            <summary>
+            Method "Add" adds a new trainer to the database
+            </summary>
+        </member>
+        <member name="M:SportsClub.Presentation.TrainerDisplay.Update">
+            <summary>
+            Method "Update" finds an existing trainer and changes the information about him
+            </summary>
+        </member>
+        <member name="M:SportsClub.Presentation.TrainerDisplay.Fetch">
+            <summary>
+            Method "Fetch" finds an existing trainer and shows the information about him
+            </summary>
+        </member>
+        <member name="M:SportsClub.Presentation.TrainerDisplay.Delete">
+            <summary>
+            Method "Delete" finds an existing trainer and deletes him
+            </summary>
+        </member>
+    </members>
+</doc>

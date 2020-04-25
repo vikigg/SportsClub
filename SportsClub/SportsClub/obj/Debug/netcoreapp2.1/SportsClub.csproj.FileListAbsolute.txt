@@ -1,0 +1,45 @@
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub3\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.deps.json
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub3\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.json
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub3\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.dev.json
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub3\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.dll
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub3\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.pdb
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub3\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csprojAssemblyReference.cache
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub3\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csproj.CoreCompileInputs.cache
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub3\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfoInputs.cache
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub3\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfo.cs
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub3\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.dll
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub3\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.pdb
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub4\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.deps.json
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub4\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.json
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub4\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.dev.json
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub4\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.dll
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub4\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.pdb
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub4\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csprojAssemblyReference.cache
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub4\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csproj.CoreCompileInputs.cache
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub4\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfoInputs.cache
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub4\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfo.cs
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub4\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.dll
+D:\FILES\shit (1)\Материали към курса-20200320\SportsClub4\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.pdb
+D:\FILES\shit (1)\IT Career Project 1\SportsClub5.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.deps.json
+D:\FILES\shit (1)\IT Career Project 1\SportsClub5.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.json
+D:\FILES\shit (1)\IT Career Project 1\SportsClub5.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.dev.json
+D:\FILES\shit (1)\IT Career Project 1\SportsClub5.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.dll
+D:\FILES\shit (1)\IT Career Project 1\SportsClub5.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.pdb
+D:\FILES\shit (1)\IT Career Project 1\SportsClub5.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csprojAssemblyReference.cache
+D:\FILES\shit (1)\IT Career Project 1\SportsClub5.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csproj.CoreCompileInputs.cache
+D:\FILES\shit (1)\IT Career Project 1\SportsClub5.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfoInputs.cache
+D:\FILES\shit (1)\IT Career Project 1\SportsClub5.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfo.cs
+D:\FILES\shit (1)\IT Career Project 1\SportsClub5.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.dll
+D:\FILES\shit (1)\IT Career Project 1\SportsClub5.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.pdb
+D:\FILES\shit (1)\IT Career Project 1\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.deps.json
+D:\FILES\shit (1)\IT Career Project 1\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.json
+D:\FILES\shit (1)\IT Career Project 1\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.dev.json
+D:\FILES\shit (1)\IT Career Project 1\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.dll
+D:\FILES\shit (1)\IT Career Project 1\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.pdb
+D:\FILES\shit (1)\IT Career Project 1\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.xml
+D:\FILES\shit (1)\IT Career Project 1\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csprojAssemblyReference.cache
+D:\FILES\shit (1)\IT Career Project 1\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csproj.CoreCompileInputs.cache
+D:\FILES\shit (1)\IT Career Project 1\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfoInputs.cache
+D:\FILES\shit (1)\IT Career Project 1\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfo.cs
+D:\FILES\shit (1)\IT Career Project 1\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.dll
+D:\FILES\shit (1)\IT Career Project 1\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.pdb
