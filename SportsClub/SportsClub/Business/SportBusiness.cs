@@ -9,13 +9,20 @@ namespace SportsClub.Business
     public class SportBusiness
     {
         private SportsClubContext sportsClubContext;
+        private string Connection;
+        private const string defaultConnection = "Server = .\\SQLEXPRESS; Database= SportsClub; Integrated Security=True;";
+
+        public SportBusiness(string connection = defaultConnection)
+        {
+            Connection = connection;
+        }
 
         /// <summary>
         /// Method "GetAll" returns a list of all sports and the information about them
         /// </summary>
         public List<Sport> GetAll()
         {
-            using(sportsClubContext = new SportsClubContext())
+            using(sportsClubContext = new SportsClubContext(Connection))
             {
                 return sportsClubContext.Sports.ToList();
             }
@@ -27,9 +34,32 @@ namespace SportsClub.Business
         /// <param name="id"></param>
         public Sport Get(int? id)
         {
-            using (sportsClubContext = new SportsClubContext())
+            using (sportsClubContext = new SportsClubContext(Connection))
             {
                 return sportsClubContext.Sports.Find(id);
+            }
+        }
+
+        /// <summary>
+        /// Method "Get" returns the sport to which the given name matches and the information about them
+        /// </summary>
+        /// <param name="name"></param>
+        /// <returns></returns>
+        public Sport Get(string name)
+        {
+            using (sportsClubContext = new SportsClubContext(Connection))
+            {
+                List<Sport> sports = sportsClubContext.Sports.ToList();
+
+                foreach (var item in sports)
+                {
+                    if (item.Name == name)
+                    {
+                        return item;
+                    }
+                }
+
+                return null;
             }
         }
 
@@ -39,7 +69,7 @@ namespace SportsClub.Business
         /// <param name="sport"></param>
         public void Add(Sport sport)
         {
-            using (sportsClubContext = new SportsClubContext())
+            using (sportsClubContext = new SportsClubContext(Connection))
             {
                 CheckIfSportExists(sport);
                 CheckIfSportNameIsCorrect(sport);
@@ -55,7 +85,7 @@ namespace SportsClub.Business
         /// <param name="sport"></param>
         public void Update(Sport sport)
         {
-            using (sportsClubContext = new SportsClubContext())
+            using (sportsClubContext = new SportsClubContext(Connection))
             {
                 var item = sportsClubContext.Sports.Find(sport.Id);
 
@@ -76,7 +106,7 @@ namespace SportsClub.Business
         /// <param name="id"></param>
         public void Delete(int id)
         {
-            using (sportsClubContext = new SportsClubContext())
+            using (sportsClubContext = new SportsClubContext(Connection))
             {
                 var item = sportsClubContext.Sports.Find(id);
 

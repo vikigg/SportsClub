@@ -1,4 +1,5 @@
-﻿using SportsClub.Data;
+﻿
+using SportsClub.Data;
 using SportsClub.Data.Models;
 using System;
 using System.Collections.Generic;
@@ -9,13 +10,20 @@ namespace SportsClub.Business
     public class TeamBusiness
     {
         private SportsClubContext sportsClubContext;
+        private string Connection;
+        private const string defaultConnection = "Server = .\\SQLEXPRESS; Database= SportsClub; Integrated Security=True;";
+
+        public TeamBusiness(string connection = defaultConnection)
+        {
+            Connection = connection;
+        }
 
         /// <summary>
         /// Method "GetAll" returns a list of all teams and the information about them
         /// </summary>
         public List<Team> GetAll()
         {
-            using (sportsClubContext = new SportsClubContext())
+            using (sportsClubContext = new SportsClubContext(Connection))
             {
                 return sportsClubContext.Teams.ToList();
             }
@@ -27,9 +35,33 @@ namespace SportsClub.Business
         /// <param name="id"></param>
         public Team Get(int? id)
         {
-            using (sportsClubContext = new SportsClubContext())
+            using (sportsClubContext = new SportsClubContext(Connection))
             {
                 return sportsClubContext.Teams.Find(id);
+            }
+        }
+
+        /// <summary>
+        /// Method "Get" returns a list of all teams to which the given name matches and the information about them
+        /// </summary>
+        /// <param name="name"></param>
+        /// <returns></returns>
+        public List<Team> Get(string name)
+        {
+            using (sportsClubContext = new SportsClubContext(Connection))
+            {
+                List<Team> teams = sportsClubContext.Teams.ToList();
+                List<Team> teamsWithGivenName = new List<Team>();
+
+                foreach (var item in teams)
+                {
+                    if (item.Name == name)
+                    {
+                        teamsWithGivenName.Add(item);
+                    }
+                }
+
+                return teamsWithGivenName;
             }
         }
 
@@ -39,7 +71,7 @@ namespace SportsClub.Business
         /// <param name="team"></param>
         public void Add(Team team)
         {
-            using (sportsClubContext = new SportsClubContext())
+            using (sportsClubContext = new SportsClubContext(Connection))
             {
                 CheckIfSportExists(team.SportId);
                 CheckIfTrainerExists(team.TrainerId);
@@ -57,7 +89,7 @@ namespace SportsClub.Business
         /// <param name="team"></param>
         public void Update(Team team)
         {
-            using (sportsClubContext = new SportsClubContext())
+            using (sportsClubContext = new SportsClubContext(Connection))
             {
                 var item = sportsClubContext.Teams.Find(team.Id);
 
@@ -80,7 +112,7 @@ namespace SportsClub.Business
         /// <param name="id"></param>
         public void Delete(int id)
         {
-            using (sportsClubContext = new SportsClubContext())
+            using (sportsClubContext = new SportsClubContext(Connection))
             {
                 var item = sportsClubContext.Teams.Find(id);
 
@@ -91,6 +123,14 @@ namespace SportsClub.Business
                         if (player.TeamId == item.Id)
                         {
                             sportsClubContext.Players.Remove(player);
+                        }
+                    }
+
+                    foreach (var game in sportsClubContext.Games)
+                    {
+                        if (game.FirstTeamId == item.Id || game.SecondTeamId == item.Id)
+                        {
+                            sportsClubContext.Games.Remove(game);
                         }
                     }
 

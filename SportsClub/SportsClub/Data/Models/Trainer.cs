@@ -6,11 +6,12 @@ namespace SportsClub.Data.Models
     /// <summary>
     /// In class "Trainer" are implemented the properties and the constructor of the trainer
     /// </summary>
-    public class Trainer
+    public partial class Trainer
     {
-        public Trainer()
+        public Trainer(string name = null)
         {
             Team = new HashSet<Team>();
+            Name = name;
         }
 
         public int Id { get; set; }

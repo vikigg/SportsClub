@@ -1,14 +1,16 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "38d4f0b0ab4d7a09d45396114dc00c2e35fa206e"
+    "signature": "f81fb8c12eb5e7bd9f5d7112d289d4a635e63ad9"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
       "SportsClub/1.0.0": {
         "dependencies": {
+          "ConsoleTables": "2.4.1",
           "Microsoft.EntityFrameworkCore": "3.1.3",
+          "Microsoft.EntityFrameworkCore.Analyzers": "3.1.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.3",
           "Microsoft.EntityFrameworkCore.SqlServer.Design": "1.1.6",
           "Microsoft.EntityFrameworkCore.Tools": "3.1.3",
@@ -36,6 +38,17 @@
           "lib/netstandard1.5/Castle.Core.dll": {
             "assemblyVersion": "4.0.0.0",
             "fileVersion": "4.4.0.0"
+          }
+        }
+      },
+      "ConsoleTables/2.4.1": {
+        "dependencies": {
+          "System.Reflection.TypeExtensions": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard1.3/ConsoleTables.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.4.1.0"
           }
         }
       },
@@ -1039,6 +1052,13 @@
       "sha512": "sha512-b5rRL5zeaau1y/5hIbI+6mGw3cwun16YjkHZnV9RRT5UyUIFsgLmNXJ0YnIN9p8Hw7K7AbG1q1UclQVU3DinAQ==",
       "path": "castle.core/4.4.0",
       "hashPath": "castle.core.4.4.0.nupkg.sha512"
+    },
+    "ConsoleTables/2.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CjRHV9HN0hjbKnW2us6w/KqV1n4pErq10IMocpTPTVabAwkUX4hSij5JXxJiTbLgndeBrE3/Kr3LvbWTxbh8bQ==",
+      "path": "consoletables/2.4.1",
+      "hashPath": "consoletables.2.4.1.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
       "type": "package",

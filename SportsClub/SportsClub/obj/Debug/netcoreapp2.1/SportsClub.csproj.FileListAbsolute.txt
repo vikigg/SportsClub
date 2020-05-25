@@ -43,3 +43,91 @@ D:\FILES\shit (1)\IT Career Project 1\SportsClub8.0\SportsClub\SportsClub\obj\De
 D:\FILES\shit (1)\IT Career Project 1\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfo.cs
 D:\FILES\shit (1)\IT Career Project 1\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.dll
 D:\FILES\shit (1)\IT Career Project 1\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.pdb
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.deps.json
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.json
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.dev.json
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.dll
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.pdb
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.xml
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csprojAssemblyReference.cache
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csproj.CoreCompileInputs.cache
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfoInputs.cache
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfo.cs
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.dll
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.pdb
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.genruntimeconfig.cache
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0 – Копие (2)\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.deps.json
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0 – Копие (2)\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.json
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0 – Копие (2)\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.dev.json
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0 – Копие (2)\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.dll
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0 – Копие (2)\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.pdb
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0 – Копие (2)\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.xml
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0 – Копие (2)\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csprojAssemblyReference.cache
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0 – Копие (2)\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csproj.CoreCompileInputs.cache
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0 – Копие (2)\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfoInputs.cache
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0 – Копие (2)\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfo.cs
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0 – Копие (2)\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.dll
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0 – Копие (2)\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.pdb
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub8.0 – Копие (2)\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.genruntimeconfig.cache
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub10.0\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.deps.json
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub10.0\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.json
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub10.0\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.dev.json
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub10.0\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.dll
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub10.0\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.pdb
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub10.0\SportsClub8.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.xml
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub10.0\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csprojAssemblyReference.cache
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub10.0\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csproj.CoreCompileInputs.cache
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub10.0\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfoInputs.cache
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub10.0\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfo.cs
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub10.0\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.dll
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub10.0\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.pdb
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub10.0\SportsClub8.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.genruntimeconfig.cache
+D:\FILES\shit (1)\IT Career Project 1\SportsClub12.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.deps.json
+D:\FILES\shit (1)\IT Career Project 1\SportsClub12.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.json
+D:\FILES\shit (1)\IT Career Project 1\SportsClub12.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.dev.json
+D:\FILES\shit (1)\IT Career Project 1\SportsClub12.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.dll
+D:\FILES\shit (1)\IT Career Project 1\SportsClub12.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.pdb
+D:\FILES\shit (1)\IT Career Project 1\SportsClub12.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.xml
+D:\FILES\shit (1)\IT Career Project 1\SportsClub12.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csprojAssemblyReference.cache
+D:\FILES\shit (1)\IT Career Project 1\SportsClub12.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csproj.CoreCompileInputs.cache
+D:\FILES\shit (1)\IT Career Project 1\SportsClub12.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfoInputs.cache
+D:\FILES\shit (1)\IT Career Project 1\SportsClub12.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfo.cs
+D:\FILES\shit (1)\IT Career Project 1\SportsClub12.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.dll
+D:\FILES\shit (1)\IT Career Project 1\SportsClub12.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.pdb
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub12.0\SportsClub12.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.deps.json
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub12.0\SportsClub12.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.json
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub12.0\SportsClub12.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.dev.json
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub12.0\SportsClub12.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.dll
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub12.0\SportsClub12.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.pdb
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub12.0\SportsClub12.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.xml
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub12.0\SportsClub12.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csprojAssemblyReference.cache
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub12.0\SportsClub12.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csproj.CoreCompileInputs.cache
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub12.0\SportsClub12.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfoInputs.cache
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub12.0\SportsClub12.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfo.cs
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub12.0\SportsClub12.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.dll
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub12.0\SportsClub12.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.pdb
+D:\Gloria\Училище\Informatika\IT kariera\modul 7\SportsClub\SportsClub12.0\SportsClub12.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.genruntimeconfig.cache
+D:\FILES\shit (1)\IT Career Project 1\SportsClub13.0.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.deps.json
+D:\FILES\shit (1)\IT Career Project 1\SportsClub13.0.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.json
+D:\FILES\shit (1)\IT Career Project 1\SportsClub13.0.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.dev.json
+D:\FILES\shit (1)\IT Career Project 1\SportsClub13.0.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.dll
+D:\FILES\shit (1)\IT Career Project 1\SportsClub13.0.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.pdb
+D:\FILES\shit (1)\IT Career Project 1\SportsClub13.0.0\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.xml
+D:\FILES\shit (1)\IT Career Project 1\SportsClub13.0.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csprojAssemblyReference.cache
+D:\FILES\shit (1)\IT Career Project 1\SportsClub13.0.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csproj.CoreCompileInputs.cache
+D:\FILES\shit (1)\IT Career Project 1\SportsClub13.0.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfoInputs.cache
+D:\FILES\shit (1)\IT Career Project 1\SportsClub13.0.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfo.cs
+D:\FILES\shit (1)\IT Career Project 1\SportsClub13.0.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.dll
+D:\FILES\shit (1)\IT Career Project 1\SportsClub13.0.0\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.pdb
+D:\FILES\shit (1)\IT Career Project 1\SportsClub\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.deps.json
+D:\FILES\shit (1)\IT Career Project 1\SportsClub\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.json
+D:\FILES\shit (1)\IT Career Project 1\SportsClub\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.runtimeconfig.dev.json
+D:\FILES\shit (1)\IT Career Project 1\SportsClub\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.dll
+D:\FILES\shit (1)\IT Career Project 1\SportsClub\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.pdb
+D:\FILES\shit (1)\IT Career Project 1\SportsClub\SportsClub\SportsClub\bin\Debug\netcoreapp2.1\SportsClub.xml
+D:\FILES\shit (1)\IT Career Project 1\SportsClub\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csprojAssemblyReference.cache
+D:\FILES\shit (1)\IT Career Project 1\SportsClub\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.csproj.CoreCompileInputs.cache
+D:\FILES\shit (1)\IT Career Project 1\SportsClub\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfoInputs.cache
+D:\FILES\shit (1)\IT Career Project 1\SportsClub\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.AssemblyInfo.cs
+D:\FILES\shit (1)\IT Career Project 1\SportsClub\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.dll
+D:\FILES\shit (1)\IT Career Project 1\SportsClub\SportsClub\SportsClub\obj\Debug\netcoreapp2.1\SportsClub.pdb

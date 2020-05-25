@@ -7,16 +7,20 @@ namespace SportsClub.Data
 {
     public partial class SportsClubContext : DbContext
     {
-        public SportsClubContext()
+        private string Connection;
+        private const string defaultConnection = "Server = .\\SQLEXPRESS; Database= SportsClub; Integrated Security=True;";
+
+        public SportsClubContext(string connection = defaultConnection)
         {
+            Connection = connection;
         }
 
         public SportsClubContext(DbContextOptions<SportsClubContext> options)
             : base(options)
         {
-            
         }
 
+        public virtual DbSet<Game> Games { get; set; }
         public virtual DbSet<Player> Players { get; set; }
         public virtual DbSet<Sport> Sports { get; set; }
         public virtual DbSet<Team> Teams { get; set; }
@@ -26,12 +30,25 @@ namespace SportsClub.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server = .\\SQLEXPRESS; Database= SportsClub; Integrated Security=True;");
+                optionsBuilder.UseSqlServer(Connection);
             }
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Game>(entity =>
+            {
+                entity.HasOne(d => d.FirstTeam)
+                    .WithMany(p => p.GameFirstTeam)
+                    .HasForeignKey(d => d.FirstTeamId)
+                    .HasConstraintName("FK__Game__FirstTeamI__6FE99F9F");
+
+                entity.HasOne(d => d.SecondTeam)
+                    .WithMany(p => p.GameSecondTeam)
+                    .HasForeignKey(d => d.SecondTeamId)
+                    .HasConstraintName("FK__Game__SecondTeam__70DDC3D8");
+            });
+
             modelBuilder.Entity<Player>(entity =>
             {
                 entity.Property(e => e.Name)

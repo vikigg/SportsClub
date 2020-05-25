@@ -4,13 +4,14 @@ using System.Collections.Generic;
 namespace SportsClub.Data.Models
 {
     /// <summary>
-    /// In class "Sport" are implemented the properties and consctructor of the sport
+    /// In class "Sport" are implemented the properties and the consctructor of the sport
     /// </summary>
-    public class Sport
+    public partial class Sport
     {
-        public Sport()
+        public Sport(string name = null)
         {
             Team = new HashSet<Team>();
+            Name = name;
         }
 
         public int Id { get; set; }
